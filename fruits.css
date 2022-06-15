@@ -1,0 +1,50 @@
+/* element selector */
+
+body {
+    background-color: blanchedalmond;
+
+}
+
+div {
+    border:7px black dotted;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+img {
+    border: 10px blue;
+    height: 10vh; 
+
+}
+
+.h1{
+
+    font-family: monospace;
+    font-size: 2em;
+    font-weight: bolder;
+
+}
+
+.i{
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+.thumbnail {
+    width: 5vw;
+    border: 1px black solid;
+    border-radius: 5px;
+}
+.margin-left-10 {
+    margin-left: 10px;
+}
+
+.margin-left-10 {
+    margin-left: 10px;
+}
+
+.margin-15px {
+    margin: 15px;
+}
